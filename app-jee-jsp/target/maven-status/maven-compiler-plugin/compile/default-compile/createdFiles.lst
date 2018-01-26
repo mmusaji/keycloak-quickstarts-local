@@ -1,0 +1,5 @@
+org/keycloak/quickstart/appjee/ServiceLocator.class
+org/keycloak/quickstart/appjee/Controller.class
+org/keycloak/quickstart/appjee/ServiceClient$MessageBean.class
+org/keycloak/quickstart/appjee/ServiceClient.class
+org/keycloak/quickstart/appjee/ServiceClient$Failure.class
